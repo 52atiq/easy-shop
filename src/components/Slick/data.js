@@ -1,7 +1,7 @@
 const products = [
     {
         id:1,
-        title: "maria kart",
+        title: "Maria kart",
         price:"$56.55",
         category:"smart",
         image:"https://i.ibb.co/1KwNs8G/chair-four.webp"
