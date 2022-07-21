@@ -1,18 +1,21 @@
 
+import { Route ,Routes} from 'react-router-dom';
 import './App.css';
 
 import Slick from './components/Slick/Slick';
-
-
-
+import Navbar from './shared/Navbar/Navbar';
 
 function App() {
   return (
     <div className="App">
-     <h1 className='text-red-600 text-3xl'> Carousel </h1>
+    
+    <Navbar> </Navbar>
+    
+    <Routes>
+       <Route></Route>
+    </Routes>
    
-  
-      <Slick></Slick>
+     {/* <Slick></Slick> */}
    
    
      

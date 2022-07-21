@@ -1,10 +1,10 @@
 body{
-    background: #ccc;
+    /* background: #ccc; */
 }
 .slider{
     width: 90%;
    margin: 0 auto;
-   margin-top: 50px;
+   margin-top: 350px;
 }
 
 .slick-slide > div {
