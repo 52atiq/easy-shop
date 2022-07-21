@@ -35,7 +35,7 @@ const Navbar = () => {
                 `}>
                    <li>
                         <Link to='/' className='py-7 px-3 inline-block'>
-                          Home
+                          Home 2
                         </Link>
                     </li>
                     <NavLink />
